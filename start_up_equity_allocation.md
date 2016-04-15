@@ -41,7 +41,7 @@ OK, now here's how you use that information:
 The founders should end up with about 50% of the company, total. Each of the next five layers should end up with about
 10% of the company, split equally among everyone in the layer.
 
-Example:
+## Example:
 
 Two founders start the company. They each take 2500 shares. There are 5000 shares outstanding, so each founder owns
 half.
@@ -114,7 +114,7 @@ between investors and founders/employees; an old rule of thumb was that at IPO t
 employees and raised as much money as you were going to raise) the investors would have 50% and the founders/employees
 would have 50%, but with hot Internet companies in 2011, investors may end up owning a lot less than 50%.
 
-Conclusion
+## Conclusion
 
 There is no one-size-fits-all solution to this problem, but anything you can do to make it simple, transparent,
 straightforward, and, above-all, fair, will make your company much more likely to be successful.
